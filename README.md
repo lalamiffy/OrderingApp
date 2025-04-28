@@ -4,7 +4,6 @@
 
 The Ordering App is a specialized application designed for kitchen staff to manage and place orders on behalf of customers. This app streamlines the process of taking and processing orders, ensuring that the kitchen can efficiently handle and fulfill customer requests. It enhances operational efficiency and helps in maintaining smooth communication between the front-of-house and the kitchen.
 
-## Features
 
 ## Features
 
